@@ -5,7 +5,6 @@
 - Putting pets to sleep can increase their energy
 - Let the user enter the filename and automatically save the file
 
-- How to run
-- python3 main.py
+- How to run ------ python3 main.py
 
   
